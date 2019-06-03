@@ -4,3 +4,5 @@ This is Git trail!
 1st modification!
 
 Modification done in branch
+
+2nd modification in master
